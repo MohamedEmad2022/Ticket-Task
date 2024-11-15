@@ -5,7 +5,7 @@ import MessageList from './messages';
 type TargetKey = React.MouseEvent | React.KeyboardEvent | string;
 
 const initialItems = [
-  { label: 'Tab 1', children: <MessageList />, key: '1', closable: false,},
+  { label: 'رقم الطلب:1', children: <MessageList />, key: '1', closable: false,},
   { label: 'Tab 2', children: 'Content of Tab 2', key: '2' },
   {
     label: 'Tab 3',
