@@ -2,39 +2,63 @@
   "messages": [
     {
       "id": "1",
+      "image": "/images/imag1.png",
       "sender": "محمد عماد",
       "time": "03:52",
       "text": "السلام عليكم"
     },
     {
       "id": "2",
+      "image": "/images/imag1.png",
       "sender": "عماد محمد",
       "time": "22-09-2024",
       "text": "وعليكم السلام، كيف اساعدك."
     },
     {
       "id": "1478",
+      "image": "/images/imag1.png",
       "sender": "محمد عماد",
       "time": "12:44:55 ص",
       "text": "يسبيب"
     },
     {
       "id": "51d9",
+      "image": "/images/imag1.png",
       "sender": "محمد عماد",
       "time": "4:20:54 م",
       "text": "الات"
-    }
-  ],
-  "users": [
-    {
-      "id": "90bc",
-      "name": "kjhjk",
-      "email": "doctor@doctor.com"
     },
     {
-      "id": "0452",
-      "name": "Mohamed Emad",
-      "email": "om@yahoo.com"
+      "id": "67fe",
+      "image": "/images/imag1.png",
+      "sender": "عماد محمد",
+      "time": "1:44:07 م",
+      "text": "يس"
+    },
+    {
+      "id": "dd56",
+      "image": "/images/imag1.png",
+      "sender": "محمد عماد",
+      "time": "1:44:16 م",
+      "text": "سس"
+    },
+    {
+      "id": "e03e",
+      "image": "/images/imag1.png",
+      "sender": "محمد عماد",
+      "time": "7:28:56 م",
+      "text": " f"
+    }
+  ],
+  "details": [
+    {
+      "Categories": "3",
+      "support": "1",
+      "important": "1",
+      "section": "الصيانة",
+      "channel": "Email",
+      "status": "2",
+      "id": "1"
     }
   ]
 }
